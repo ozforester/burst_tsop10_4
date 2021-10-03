@@ -4,4 +4,4 @@ atmega8 and popular clock oscillator<br>
 5351 programmed with predefined frequencies<br>
 powered by 3.3 volts<br>
 
-[![Watch the video](video.mp4)]
+![video](video.mp4)
