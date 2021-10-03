@@ -5,5 +5,5 @@ atmega8 and popular clock oscillator<br>
 powered by 3.3 volts<br>
 
 <video controls>
-<source src="file://video.mp4" type=video/mp4">
+<source src="video.mp4" type=video/mp4">
 </video>
