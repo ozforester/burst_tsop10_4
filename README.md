@@ -12,6 +12,7 @@ powered by 3.3 volts<br>
 ![video](video.gif)
 
 divider.ods - libreoffice calc for particular adc voltage divider
+ABCD buttons #definition in assembly file.
 
 si5351 registers calculator had been lost, there was a calc file too
 (maybe will reconstructed and uploaded, depend of future labs)
