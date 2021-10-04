@@ -13,6 +13,7 @@ all:
 	avr-gcc ${CFLAGS} -Wl,-M=synth.map -Wall ${OPT} -mmcu=atmega8 -o ${TARGET} ${TARGET}.o
 	avr-objcopy -O ihex ${TARGET} ${TARGET}.hex
 	avr-size ${TARGET}.o
+	avr-size ${TARGET}.hex
 
 flash:
 	avrdude -c usbasp -p m8 -B 2 -U flash:w:${TARGET}.hex

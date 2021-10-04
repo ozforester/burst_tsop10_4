@@ -10,3 +10,8 @@ powered by 3.3 volts<br>
       0    664	      0	    664	    298	burst.hex
 </pre>
 ![video](video.gif)
+
+divider.ods - libreoffice calc for particular adc voltage divider
+
+si5351 registers calculator had been lost, there was a calc file too
+(maybe will reconstructed and uploaded, depend of future labs)
