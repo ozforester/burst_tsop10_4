@@ -138,7 +138,7 @@ ret				;
 
 button: ; mux3 into btn reg
 	rcall adc_read
-	between butA-20 butA+dev
+	between butA-dev butA+dev
 	tst temp
 	breq ba
 	between butB-dev butB+dev
